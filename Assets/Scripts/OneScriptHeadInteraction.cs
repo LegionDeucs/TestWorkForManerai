@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Click : MonoBehaviour
+public class OneScriptHeadInteraction : MonoBehaviour
 {
     private const int MAX_BRUISES_COUNT = 100;
     [SerializeField] private Camera mainCamera;
